@@ -16,20 +16,20 @@ Tensorflow-gpu==1.12.0
 
 ## Train
 ### Stage 1-1
->>> python pre_train1.py
+> python pre_train1.py
 
 ### Stage 1-2
->>> python pre_train2.py
+> python pre_train2.py
 
 ### Stage 2
->>> python main_train.py
+> python main_train.py
 
 
 ## Evaluate
 ### Track 1
->>> python test.py --data_dir ./data/track1/ --checkpoint_dir ./checkpoint_track1/ --test_result_dir ./test_result_track1
+> python test.py --data_dir ./data/track1/ --checkpoint_dir ./checkpoint_track1/ --test_result_dir ./test_result_track1
 ### Track 2
->>> python test.py --data_dir ./data/track2/ --checkpoint_dir ./checkpoint_track2/ --test_result_dir ./test_result_track2
+> python test.py --data_dir ./data/track2/ --checkpoint_dir ./checkpoint_track2/ --test_result_dir ./test_result_track2
 
 ## Pretrained model
 
