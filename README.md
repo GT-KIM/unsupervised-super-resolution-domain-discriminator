@@ -35,8 +35,8 @@ Tensorflow-gpu==1.12.0
 
 training with NTIRE2020 real world super-resolution challenge track 1 dataset
 
-https://drive.google.com/file/d/1gxeDJxj91fgEpeZz3mFNwlUvVxKp649v/view?usp=sharing
+https://www.dropbox.com/s/vv68nsj36tiig4l/checkpoint_track1.zip?dl=0
 
 training with NTIRE2020 real world super-resolution challenge track 2 dataset
 
-https://drive.google.com/file/d/12xxgn3Q-CctltH9FZw2ZGmWhbaO7iBeS/view?usp=sharing
+https://www.dropbox.com/s/xnjzlff0tezk75f/checkpoint_track2.zip?dl=0
